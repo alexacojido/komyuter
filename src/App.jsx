@@ -382,7 +382,7 @@ export default function Page() {
                   className="btn me-4 cursor-not-allowed rounded-lg bg-yellow-500 opacity-80 shadow-lg hover:bg-yellow-600"
                   onClick={handleDownloadClick}
                 >
-                  Download the App
+                  Download the App (Soon)
                 </button>
                 <button
                   className="btn btn-ghost cursor-not-allowed rounded-lg border border-blue-400 opacity-80 hover:bg-blue-900"
