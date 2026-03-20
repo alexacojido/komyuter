@@ -1,4 +1,4 @@
-# 🚀 Komyuter
+# 🚌 Komyuter
 
 Komyuter is a conceptual prototype for a class project.
 
