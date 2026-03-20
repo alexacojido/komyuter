@@ -6,7 +6,7 @@ Komyuter is a conceptual prototype for a class project.
 
 ![Landing Page](https://github.com/user-attachments/assets/c458dbf3-10f7-46a1-a120-bebc124e3a0f)
 
-![Mobile Landing Page](https://github.com/user-attachments/assets/c458dbf3-10f7-46a1-a120-bebc124e3a0f)
+![Mobile Landing Page](https://github.com/user-attachments/assets/bac9074b-9bc9-4be5-a602-405f9dc416d8)
 
 ## ✨ Features
 
