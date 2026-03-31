@@ -400,8 +400,8 @@ export default function Page() {
       <footer className="footer footer-center bg-slate-100 p-4 text-base-content">
         <aside>
           <p className="font-semibold">
-            Copyright © {new Date().getFullYear()} - All right reserved by
-            Komyuter
+            © {new Date().getFullYear()} Komyuter. Made with care for Filipino
+            commuters.
           </p>
         </aside>
       </footer>
